@@ -4,6 +4,8 @@ This is inspired by http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/
 And adopting the pattern of mnist example in official tensorflow directory.
 
 The result seems joyful:
+
+```
 Step 900 loss = 1.08 (0.001 sec)
 Step 910 loss = 1.03 (0.001 sec)
 Step 920 loss = 1.23 (0.001 sec)
@@ -20,3 +22,4 @@ Validation Data Eval:
 Num examples: 1000 Num correct: 523 Precision @ 1: 0.5230
 Test Data Eval:
 Num examples: 1000 Num correct: 528 Precision @ 1: 0.5280
+```
